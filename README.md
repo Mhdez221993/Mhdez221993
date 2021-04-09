@@ -36,10 +36,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/moises-hernandez-9bbb17145/">
-    <img height='20' src="https://img.shields.io/badge/LinkedIn-Mhdez221993-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-MoisesHernandez-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
-  <a href="https://github.com/MkrtichSargsyan">
+  <a href="https://github.com/Mhdez221993">
     <img height='20' src="https://img.shields.io/badge/Github-Mhdez221993-red?logo=Github&logoColor=red&labelColor=black">
   </a>
 
