@@ -1,10 +1,10 @@
-<h1>Hi, Im Moises</h1> 👋
+<h1>Hi, I'm Moises</h1> 👋
 
 
-<h3>I'm a passionate full stack web developer from Colombia.</h3>
+<h3>I'm a passionate full-stack web developer from Colombia.</h3>
 
 
-- 🔭 I’m currently a full time student at Microverse Inc.
+- 🔭 I’m currently a full-time student at Microverse Inc.
 - 🌱 I’m currently learning HTML & CSS
 - 👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Projects
 - 💬 Ask me about anything, I am happy to help
