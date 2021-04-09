@@ -25,3 +25,24 @@
 
 </div>
 
+
+### Connect with Me <br>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/moises-hernandez-9bbb17145/">
+    <img height='20' src="https://img.shields.io/badge/LinkedIn-Mhdez221993-blue?logo=Linkedin&logoColor=blue&labelColor=black">
+  </a>
+
+  <a href="https://github.com/MkrtichSargsyan">
+    <img height='20' src="https://img.shields.io/badge/Github-Mhdez221993-red?logo=Github&logoColor=red&labelColor=black">
+  </a>
+
+  <a href="https://twitter.com/MoisesH42060050">
+    <img height='20' src="https://img.shields.io/badge/Twitter-MoisesH42060050-blue?logo=Twitter&logoColor=blue&labelColor=black">
+  </a>
+
+  <a href="mailto:mhdezcoronado@gmil.com">
+    <img height='20' src="https://img.shields.io/badge/Gmail-mhdezcoronado@gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black">
+  </a>
+</p>
