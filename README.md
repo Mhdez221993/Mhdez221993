@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently a full-time student at Microverse Inc.
-- 🌱 I’m currently learning SQL & R
+- 🌱 I’m currently learning Ruby on Rails & R
 - 👯 I’m looking to collaborate on React, Ruby, Ruby on Rails and R Projects
 - 💬 Ask me about anything, I am happy to help
 
@@ -27,6 +27,7 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
 
 </div>
 
