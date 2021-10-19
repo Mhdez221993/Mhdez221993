@@ -5,7 +5,7 @@
 
 
 - 🔭 I’m currently a full-time student at Microverse Inc.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Redux
 - 👯 I’m looking to collaborate on React, Ruby, Ruby on Rails Projects
 - 💬 Ask me about anything, I am happy to help
 
