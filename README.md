@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently a full-time student at Microverse Inc.
 - 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate on C++ and Ruby on Rails Projects.
+- 👯 I’m looking to collaborate on React and Ruby on Rails Projects.
 - 💬 Ask me about anything, I am happy to help.
 
 <br>
