@@ -4,9 +4,8 @@
 <h3>I'm a passionate full-stack web developer from Colombia.</h3>
 
 
-- 🔭 I’m currently a full-time student at Microverse Inc.
-- 🌱 I’m currently learning Ruby on Rails.
-- 👯 I’m looking to collaborate on React and Ruby on Rails Projects.
+- 🌱 I’m currently learning Java.
+- 👯 I’m looking to collaborate on React, Java or Ruby on Rails Projects.
 - 💬 Ask me about anything, I am happy to help.
 
 <br>
