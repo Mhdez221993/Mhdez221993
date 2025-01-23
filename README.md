@@ -43,16 +43,12 @@
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/moises-hernandez-9bbb17145/">
+  <a href="https://www.linkedin.com/in/moises-hdez-coronado/">
     <img height='20' src="https://img.shields.io/badge/LinkedIn-MoisesHernandez-blue?logo=Linkedin&logoColor=blue&labelColor=black">
   </a>
 
   <a href="https://github.com/Mhdez221993">
     <img height='20' src="https://img.shields.io/badge/Github-Mhdez221993-red?logo=Github&logoColor=red&labelColor=black">
-  </a>
-
-  <a href="https://twitter.com/MoisesH42060050">
-    <img height='20' src="https://img.shields.io/badge/Twitter-MoisesH42060050-blue?logo=Twitter&logoColor=blue&labelColor=black">
   </a>
 
   <a href="mailto:mhdezcoronado@gmil.com">
