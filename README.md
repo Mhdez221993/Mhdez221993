@@ -4,8 +4,7 @@
 <h3>I'm a passionate full-stack web developer from Colombia.</h3>
 
 
-- 🌱 I’m currently learning Java, C, and C++.
-- 👯 I’m looking to collaborate on React, Java or Ruby on Rails Projects.
+- 👯 I’m looking to collaborate on React, or Ruby on Rails Projects.
 - 💬 Ask me about anything, I am happy to help.
 
 <br>
